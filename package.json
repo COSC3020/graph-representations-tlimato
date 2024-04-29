@@ -1,0 +1,15 @@
+{
+  "name": "graph-representations-tlimato",
+  "version": "1.0.0",
+  "description": "Cosc 3020 graph-representations-tlimato",
+  "main": "index.js",
+  "scripts": {
+    "test": "node code.test.js",
+    "test_2": "node code.test.js"
+  },
+  "author": "Tyson Limato",
+  "license": "ISC",
+  "dependencies": {
+    "jsverify": "^0.8.4"
+  }
+}

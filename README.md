@@ -23,7 +23,7 @@ The runtime complexity of the conversion is $O(V^2)$ where $V_1$ is the number o
 
 ### Supporting Reasoning M->L
 
-1. **Adjacency Matrix Structure**: The adjacency matrix is a $V_1 x V_1$ matrix where each cell $(i, j)$ indicates whether there is a direct edge from vertex $i$ to vertex $j$. This matrix has $V_1$ rows and $V_1$ columns.
+1. **Adjacency Matrix Structure**: The adjacency matrix is a $V_1 * V_1$ matrix where each cell $(i, j)$ indicates whether there is a direct edge from vertex $i$ to vertex $j$. This matrix has $V_1$ rows and $V_1$ columns.
 
 2. **Nested Loops**: The function has two loops that are nested:
    - The outer loop runs $V_1$ times, once for each vertex (row)

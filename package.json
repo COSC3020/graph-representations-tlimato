@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node code.test.js",
-    "test_2": "node code.test.js"
+    "test_2": "node code2.test.js"
   },
   "author": "Tyson Limato",
   "license": "ISC",

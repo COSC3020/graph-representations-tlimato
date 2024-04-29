@@ -8,3 +8,4 @@ jobs:
     - uses: actions/checkout@v3
     - run: npm i jsverify
     - run: node code.test.js
+    - run: node code2.test.js

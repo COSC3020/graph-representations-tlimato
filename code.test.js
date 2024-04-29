@@ -28,3 +28,4 @@ const test =
         return JSON.stringify(list) == JSON.stringify(convertToAdjList(mat));
     });
 jsc.assert(test, { tests: 1000 });
+
